@@ -6,7 +6,7 @@
 #### I have priorly learnt javascript,python and .net framework 
 #### One of my present interests also being game development on UE4 using blueprints,I am looking forward to explore it more
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskbuster&show_icons=true&theme=shades-of-purple)
+[![muskbusters's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskbuster&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muskbuster&repo=solidity-waveportal )
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muskbuster&repo=verilog-beginner )
