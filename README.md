@@ -9,4 +9,5 @@ One of my present interests also being game development on UE4 using blueprints,
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=muskbuster)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muskbuster&repo=solidity-waveportal)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muskbuster)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muskbuster&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskbuster&show_icons=true&theme=radical)
