@@ -9,4 +9,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskbuster&show_icons=true&theme=shades-of-purple)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muskbuster&repo=solidity-waveportal )
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muskbuster&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
