@@ -8,7 +8,7 @@
 
 [![muskbuster's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskbuster&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muskbuster&repo=solidity-waveportal )
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muskbuster&repo=verilog-beginner )
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muskbuster&repo=solidity-waveportal&theme=shades-of-purple )
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muskbuster&repo=verilog-beginner&theme=shades-of-purple )
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muskbuster&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muskbuster&layout=compact&theme=shades-of-purple](https://github.com/anuraghazra/github-readme-stats)
