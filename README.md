@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am SUDEEP KAMAT
-A student dayanand sagar college of engineering
+A student dayanand sagar college of engineering/
 I am a hardcore fan of the DC universe
 also a proud pc gamer,these aside
 I am currently learning and experimenting with web3 projects using rust,solidity and solana 
