@@ -8,7 +8,7 @@
 
 [![muskbuster's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskbuster&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=muskbuster&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-https://gitfolio-online.vercel.app/user/muskbuster?theme=dark&includeFork=true
+
 
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muskbuster&repo=solidity-waveportal&theme=shades-of-purple )
