@@ -12,6 +12,8 @@
 
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muskbuster&repo=solidity-waveportal&theme=shades-of-purple )
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muskbuster&repo=NFT-minter&theme=shades-of-purple )
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muskbuster&repo=solidity-nft-game&theme=shades-of-purple )
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muskbuster&repo=verilog-beginner&theme=shades-of-purple )
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muskbuster&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
