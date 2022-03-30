@@ -3,7 +3,7 @@
 #### A student dayanand sagar college of engineering
 #### I am a hardcore fan of the DC universe also a proud pc gamer,these aside
 #### I am currently learning and experimenting with web3 projects using rust,solidity and solana 
-#### I have priorly learnt javascript,python and .net framework 
+#### I have priorly learnt javascript,python
 #### One of my present interests also being game development on UE4 using blueprints,I am looking forward to explore it more
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskbuster&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
