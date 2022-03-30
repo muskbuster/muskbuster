@@ -15,7 +15,7 @@
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muskbuster&repo=NFT-minter&theme=shades-of-purple )
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muskbuster&repo=solidity-nft-game&theme=shades-of-purple )
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muskbuster&repo=verilog-beginner&theme=shades-of-purple )
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muskbuster&repo=vinyl-record_datalog&theme=shades-of-purple )
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muskbuster&repo=vinyl_record-datalog&theme=shades-of-purple )
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muskbuster&repo=Neural-Networks-and-Deep-Learning&theme=shades-of-purple )
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muskbuster&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
