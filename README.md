@@ -6,16 +6,7 @@
 #### I have priorly learnt javascript,python
 #### One of my present interests also being game development on UE4 using blueprints,I am looking forward to explore it more
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskbuster&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=muskbuster&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muskbuster&repo=solidity-waveportal&theme=shades-of-purple )
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muskbuster&repo=NFT-minter&theme=shades-of-purple )
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muskbuster&repo=solidity-nft-game&theme=shades-of-purple )
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muskbuster&repo=verilog-beginner&theme=shades-of-purple )
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muskbuster&repo=vinyl_record-datalog&theme=shades-of-purple )
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muskbuster&repo=Neural-Networks-and-Deep-Learning&theme=shades-of-purple )
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muskbuster&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
