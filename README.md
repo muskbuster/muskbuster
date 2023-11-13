@@ -1,12 +1,10 @@
 ### Hi there 👋
 #### I am SUDEEP KAMAT
-#### A student dayanand sagar college of engineering
-#### I am a hardcore fan of the DC universe also a proud pc gamer,these aside
-#### I am currently learning and experimenting with web3 projects using rust,solidity and solana 
-#### I have priorly learnt javascript,python
-#### One of my present interests also being game development on UE4 using blueprints,I am looking forward to explore it more
+#### A developer contributing to Blockchain technology in fields of security , Interoperability and defi infrastructures
+#### I am currently learning and experimenting with modular blockchains and understanding zk proofs
+#### I have prior experience in ethereum , Solana and NEAR tech stacks
+#### I also contribute to Electronics and communications fields like Computer communication networks
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=muskbuster&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
